@@ -1,3 +1,3 @@
 # shop
 ##It is model
-![](https://github.com/changxianglin/shop/shop.jpg)
+![image](https://github.com/changxianglin/shop/edit/master/shop.jpg)
