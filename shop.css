@@ -1,0 +1,9 @@
+
+li{ list-style:none; float:left; margin:5px; border:2px #000 solid; width:200px;}
+li img{ width:200px;}
+#div1{ width:840px; height:260px; margin-left: 45px;border:2px #000 solid; clear:both;}
+p{ height:20px; border-bottom:1px #000 dashed; text-indent: 1em;}
+.box1{ width:200px; float:left;}
+.box2{ width:200px; float:left;}
+.box3{ width:200px; float:left;}
+#allMoney{ float:right;}
